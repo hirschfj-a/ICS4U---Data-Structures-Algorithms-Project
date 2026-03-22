@@ -1,1 +1,2 @@
-added 3.0.0 (major.minor.patch)
+-added 3.0.0 (major.minor.patch)
+-added 3.1.0 (includes customers being refreshed automatically!)
