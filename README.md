@@ -1,5 +1,1 @@
--added 4.0.0 (mini)
--4.0.0 (mini only includes capacity and could have small bugs)
-
--4.1.0 (mini) allows more cars to be added!
--4.1.1 (mini) allows the refreshing phase to be quicker!
+- added 5.0.0 (mini no distance) (does not yet have distance added from version 4 but it can be added later at any time)
