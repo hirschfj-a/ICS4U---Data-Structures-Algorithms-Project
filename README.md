@@ -1,1 +1,1 @@
-In version 6, the linked list that logs information is only implemented in the background, and the new "EventNode" class is added as a file.
+Version 8 will be the final version and the final changes will be added here
