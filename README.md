@@ -3,3 +3,5 @@
 Version 3.2.0 has two instances of the same linked list class, and each class is separated into their own files
 
 Version 5.0.0 (mini no distance) and Version 4.1.1 (mini) do not yet have distance but it can be added soon
+
+Journey Version 8.2.0 is from earlybranch-8-journey
