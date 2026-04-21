@@ -1,1 +1,1 @@
-Version 7 generally works on displaying the event log on the side of the simulation
+Version 9 has the cleaned-up code and visuals, and fixes comments to make sections more clear
