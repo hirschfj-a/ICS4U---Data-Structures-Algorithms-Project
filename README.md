@@ -1,4 +1,4 @@
-Version 8 will be the final version, and the final changes will be added here
+Version 9 will be the final version, and the final major changes will be added here
 
 Version 8.0.0 includes a long-term logging system (all information recorded is able to be printed in the log)
 
