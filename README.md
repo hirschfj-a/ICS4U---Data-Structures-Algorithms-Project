@@ -6,3 +6,6 @@ Version 5.0.0 (mini no distance) and Version 4.1.1 (mini) do not yet have distan
 
 --------
 Version 8 files are from earlybranch-8-journey
+--------
+Version 9 includes the final clean-up changes
+(In version 9, press 0 to print the full log information)
