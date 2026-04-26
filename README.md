@@ -1,4 +1,4 @@
-Version 9 includes the final clean-up changes
+Version 9.0.0 is the main version and includes the final clean-up changes.
 (In version 9, press 0 to print the full log information)
 ---------
 
